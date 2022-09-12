@@ -1,0 +1,22 @@
+{
+  "name": "module",
+  "version": "0.1.0",
+  "summary": "A short description of module.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/sourya9/module",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "sourya9": "souryachakra@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/sourya9/module.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "module/Classes/**/*"
+}
